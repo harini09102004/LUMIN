@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'DM Sans', sans-serif;
+    background-color: white;
+    color: black;
+}
+
+.metric-box {
+    background: #f7fbff;
+    border-radius: 12px;
+    padding: 16px;
+    border-left: 5px solid #38b6ff;
+}
+
+.highlight {
+    color: #38b6ff;
+    font-weight: 600;
+}
